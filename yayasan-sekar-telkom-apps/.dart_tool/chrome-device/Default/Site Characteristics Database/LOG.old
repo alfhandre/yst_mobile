@@ -1,0 +1,21 @@
+2024/03/26-22:09:15.866 43a4 Log #3: 1 ops saved to Table #24 OK
+2024/03/26-22:09:15.870 43a4 Archiving C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database/000003.log: OK
+2024/03/26-22:09:15.875 43a4 Log #6: 5 ops saved to Table #25 OK
+2024/03/26-22:09:15.880 43a4 Archiving C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database/000006.log: OK
+2024/03/26-22:09:15.881 43a4 Log #10: 0 ops saved to Table #26 OK
+2024/03/26-22:09:15.885 43a4 Archiving C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database/000010.log: OK
+2024/03/26-22:09:15.890 43a4 Log #19: 33 ops saved to Table #27 OK
+2024/03/26-22:09:15.892 43a4 Archiving C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database/000019.log: OK
+2024/03/26-22:09:15.892 43a4 Table #4: 1 entries OK
+2024/03/26-22:09:15.893 43a4 Table #6: 1 entries OK
+2024/03/26-22:09:15.893 43a4 Table #11: 5 entries OK
+2024/03/26-22:09:15.893 43a4 Table #13: 1 entries OK
+2024/03/26-22:09:15.894 43a4 Table #14: 5 entries OK
+2024/03/26-22:09:15.894 43a4 Table #20: 5 entries OK
+2024/03/26-22:09:15.894 43a4 Table #22: 1 entries OK
+2024/03/26-22:09:15.895 43a4 Table #23: 5 entries OK
+2024/03/26-22:09:15.895 43a4 Table #24: 1 entries OK
+2024/03/26-22:09:15.895 43a4 Table #25: 5 entries OK
+2024/03/26-22:09:15.895 43a4 Table #27: 33 entries OK
+2024/03/26-22:09:15.904 43a4 Archiving C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database/MANIFEST-000001: OK
+2024/03/26-22:09:15.913 43a4 **** Repaired leveldb C:\Users\andre\AppData\Local\Temp\flutter_tools.a6b4f480\flutter_tools_chrome_device.40763282\Default\Site Characteristics Database; recovered 11 files; 3413 bytes. Some data may have been lost. ****

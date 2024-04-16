@@ -1,0 +1,4 @@
+#Thu Dec 21 22:13:00 WIB 2023
+base.0=/Users/sekadiasnorigakoswara/src/Freelance/yayasan_sekar_telkom_apps/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
